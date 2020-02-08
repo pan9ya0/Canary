@@ -27,6 +27,6 @@ class safeDetect:
         self.avlscan()
 
     def exposure_scan(self):
-
+        pass
     def avlscan(self):
-        def
+        pass
